@@ -147,8 +147,12 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h4 {
+h5{margin-left: 15px;
+    margin-right: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #home {
@@ -163,7 +167,7 @@ h4 {
 /* skills Section */
 #Skills {
     background-image: url(./assets/Banner_image.jpg);
-    height: 40%;
+    height: 20%;
     background-position: fit-content;
     background-repeat: no-repeat;
     /* Optional: prevents tiling */
@@ -186,7 +190,7 @@ h4 {
     padding: 10px;
 }
 
-.card-body{background-color: blanchedalmond;
+.card-body{background-color:lightgrey;
 
 }
 
