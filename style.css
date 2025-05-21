@@ -125,7 +125,7 @@ body {
     height: 200px;
     border-radius: 50%;
     margin: auto;
-    background: url(./assets/CharlesBoswell.jpg) no-repeat;
+    background: url('./assets/CharlesBoswell.JPG') no-repeat;
     background-size: 100%;
     background-position: 40% 0;
 }
